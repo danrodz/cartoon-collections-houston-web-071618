@@ -18,7 +18,6 @@ end
 
 def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
-  includes = false
   array.each do |word|
     
   end
